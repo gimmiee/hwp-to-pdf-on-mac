@@ -1,4 +1,4 @@
-# hwptopdf
+# hwp-to-pdf-on-mac
 
 **한국어 · English** — 이 README는 두 언어로 작성되어 있습니다.
 
@@ -30,8 +30,8 @@
 ## 설치
 
 ```bash
-git clone https://github.com/gimmiee/hwptopdf.git
-cd hwptopdf
+git clone https://github.com/gimmiee/hwp-to-pdf-on-mac.git
+cd hwp-to-pdf-on-mac
 ```
 
 ### 방법 A — pnpm (권장)
@@ -124,7 +124,7 @@ pnpm convert -- ␣   # 여기서 폴더를 터미널에 드래그 후 Enter
 ## 프로젝트 구조
 
 ```
-hwptopdf/
+hwp-to-pdf-on-mac/
 ├── convert.py          # 변환 CLI
 ├── requirements.txt    # rhwp-python
 ├── package.json        # pnpm 스크립트
@@ -175,8 +175,8 @@ Useful when you need to batch-convert local HWP files to PDF without Hancom Offi
 ### Setup
 
 ```bash
-git clone https://github.com/gimmiee/hwptopdf.git
-cd hwptopdf
+git clone https://github.com/gimmiee/hwp-to-pdf-on-mac.git
+cd hwp-to-pdf-on-mac
 pnpm bootstrap
 ```
 

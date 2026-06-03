@@ -1,5 +1,5 @@
 {
-  "name": "hwptopdf",
+  "name": "hwp-to-pdf-on-mac",
   "version": "1.0.0",
   "private": true,
   "description": "맥용 HWP/HWPX → PDF 일괄 변환",
