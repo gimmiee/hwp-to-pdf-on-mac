@@ -30,7 +30,7 @@
 ## 설치
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/hwptopdf.git
+git clone https://github.com/gimmiee/hwptopdf.git
 cd hwptopdf
 ```
 
@@ -175,7 +175,7 @@ Useful when you need to batch-convert local HWP files to PDF without Hancom Offi
 ### Setup
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/hwptopdf.git
+git clone https://github.com/gimmiee/hwptopdf.git
 cd hwptopdf
 pnpm bootstrap
 ```
