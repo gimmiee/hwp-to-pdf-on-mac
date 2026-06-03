@@ -1,0 +1,11 @@
+{
+  "name": "hwptopdf",
+  "version": "1.0.0",
+  "private": true,
+  "description": "맥용 HWP/HWPX → PDF 일괄 변환",
+  "scripts": {
+    "bootstrap": "python3 -m venv .venv && .venv/bin/pip install -r requirements.txt",
+    "convert": ".venv/bin/python convert.py"
+  },
+  "packageManager": "pnpm@10.33.0"
+}
